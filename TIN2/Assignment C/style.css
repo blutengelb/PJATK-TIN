@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    color: black;
+    font-family: Helvetica;
+}
+
+.wrapper{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    right: 0;
+    text-align: center;
+    top: 0;
+    bottom: 0;
+}
+.bgimage{
+    max-width: 100%;
+    height:100%;
+    position:relative;
+
+}
+.banner{
+    position: absolute;
+    margin: auto;
+    top: 50px;
+    left: 0;
+    right: 0;
+    border: 2px solid black;
+    border-color: silver;
+    width: 400px;
+    height: auto;
+}
+
+h1{
+    font-size: 80%;
+    color: lightyellow;
+    border-bottom: 2px solid lightyellow;
+    margin-left: 5%;
+}
+
+p{
+    font-size: 55%;
+    color: black;
+    margin-left: 2%;
+    margin-right: 2%;
+    border: 2px solid darkolivegreen;
+    background-color: lavender;
+}
+
+.text {
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    top:100px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin:auto;
+}
+
+#mercedes:hover, #formula:hover, #history:hover, #motorsport:hover {
+    font-style: italic;
+}
+
+a:hover {
+    font-size: 110%;
+    color: green;
+}
+
+
+
+
+
+
+
+
