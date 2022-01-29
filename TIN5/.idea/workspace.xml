@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76463c7b-a3b2-409a-a2da-54cdea749216" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="24GebeSRn478oxcPGQ8lFxC7E0T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TIN3" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.Assignment F.js">
+    <configuration name="5e.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$USER_HOME$/Desktop/S/!5SEM/dojacatie/Tin/Labs/Assignment5/5e.js" working-dir="$USER_HOME$/Desktop/S/!5SEM/dojacatie/Tin/Labs/Assignment5">
+      <method v="2" />
+    </configuration>
+    <configuration name="Assignment B.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Assignment B.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Assignment D.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Assignment D.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Assignment E.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Assignment E.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Assignment F.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Assignment F.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Assignment F.js" />
+        <item itemvalue="Node.js.Assignment E.js" />
+        <item itemvalue="Node.js.Assignment B.js" />
+        <item itemvalue="Node.js.Assignment D.js" />
+        <item itemvalue="Node.js.5e.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76463c7b-a3b2-409a-a2da-54cdea749216" name="Default Changelist" comment="" />
+      <created>1643261424169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643261424169</updated>
+      <workItem from="1643261425433" duration="2650000" />
+      <workItem from="1643451127236" duration="7209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1643456654294">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1643456654294" />
+    <state width="745" height="223" key="GridCell.Tab.0.bottom" timestamp="1643467142495">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="745" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1643467142495" />
+    <state width="745" height="223" key="GridCell.Tab.0.center" timestamp="1643467142495">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="745" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1643467142495" />
+    <state width="745" height="223" key="GridCell.Tab.0.left" timestamp="1643467142495">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="745" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1643467142495" />
+    <state width="745" height="223" key="GridCell.Tab.0.right" timestamp="1643467142495">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="745" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1643467142495" />
+    <state x="106" y="180" width="540" height="524" key="StructurePopup" timestamp="1643463303977">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="106" y="180" width="540" height="524" key="StructurePopup/0.0.1536.864@0.0.1536.864" timestamp="1643463303977" />
+    <state x="762" y="0" width="781" height="870" key="dock-window-1" timestamp="1643461041811">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="762" y="0" width="781" height="870" key="dock-window-1/0.0.1536.864@0.0.1536.864" timestamp="1643461041811" />
+    <state x="762" y="0" width="781" height="870" key="dock-window-2" timestamp="1643465503209">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="762" y="0" width="781" height="870" key="dock-window-2/0.0.1536.864@0.0.1536.864" timestamp="1643465503209" />
+    <state x="41" y="200" key="run.anything.popup" timestamp="1643461156321">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="41" y="200" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1643461156321" />
+    <state x="46" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1643465719494">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="46" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1643465719494" />
+  </component>
+</project>
