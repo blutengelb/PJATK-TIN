@@ -1,0 +1,14 @@
+label {
+    font-style: italic;
+    font-size: 20px;
+}
+
+#passLabel {
+    color: red;
+    font-size: 30px;
+}
+
+input[type=password] {
+    font-style: initial;
+    color: blue;
+}
