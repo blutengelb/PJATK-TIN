@@ -1,0 +1,22 @@
+h2 {
+    font-size: 20px;
+    font-style: oblique;
+}
+
+p {
+    font-size: 17px;
+    font-style: italic;
+}
+
+table, th, td {
+    border: solid darkolivegreen;
+    border-width: 1px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: '>';
+}
